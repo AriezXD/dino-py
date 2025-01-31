@@ -8,7 +8,7 @@ Features
 ✅ Score tracking & increasing difficulty
 ✅ Simple, fun, and lightweight
 
-Tech Stack
+Tech Stack-
 Python 🐍
 Pygame 🎮
 How to Play
