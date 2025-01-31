@@ -11,6 +11,8 @@ Features-
 Tech Stack-
 Python 🐍
 Pygame 🎮
+
+
 How to Play
 1️⃣ Run the script
 2️⃣ Press arrow keys to jump and crouch
